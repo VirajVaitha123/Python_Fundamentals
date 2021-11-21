@@ -1,0 +1,10 @@
+Hello this is a text file.
+
+I will even leave on empty line to see what happens
+
+and what happens if we have a string "like this?". Or a seperate sentenace same line.
+
+
+ additional text appended
+ additional text appended
+ additional text appended
